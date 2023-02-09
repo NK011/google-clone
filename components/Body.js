@@ -58,7 +58,7 @@ function Body() {
             </form>
             <div className="flex space-x-5 hidden md:block">
                 <button className="btn">Google Search</button>
-                <button className="btn">I'm Feeling Lucky</button>
+                <button className="btn">I am Feeling Lucky</button>
             </div>
             <div className="flex space-x-3">
                 <LockClosedIcon className="h-7 hidden md:block" />
